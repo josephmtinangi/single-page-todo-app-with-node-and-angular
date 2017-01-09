@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/josephmtinangi/single-page-todo-app-with-node-and-angular/issues"
   },
-  "homepage": "https://github.com/josephmtinangi/single-page-todo-app-with-node-and-angular#readme"
+  "homepage": "https://github.com/josephmtinangi/single-page-todo-app-with-node-and-angular#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "method-override": "^2.3.7",
+    "mongoose": "^4.7.6",
+    "morgan": "^1.7.0"
+  }
 }
